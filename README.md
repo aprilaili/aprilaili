@@ -1,6 +1,6 @@
 # Hi there, I'm Aprilaili! 👋
 
-I'm a computer science student passionate about coding and exploring the world of technology. I love diving into new projects, experimenting with code, and learning about the latest trends in the tech industry.
+I'm a computer science student passionate about coding and exploring the world of technology. I love diving into new projects, experimenting with code, and learning about the latest trends in the tech industry.  I'm currently studying at PENS, yes that's a real place and please don't add extra vowel 🤣. You can reach me via email on my profile.
 
 ## About Me
 
@@ -9,9 +9,7 @@ I'm a computer science student passionate about coding and exploring the world o
 - 💡 Interested in Web Development, AI, and Cloud Computing
 
 ## Projects
-
-- [Project 1](link-to-project)
-- [Project 2](link-to-project)
+- Maybe later once I graduated
 - ...
 
 ## DigitalOcean Referral
