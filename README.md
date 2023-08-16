@@ -9,6 +9,7 @@ I'm a computer science student passionate about coding and exploring the world o
 - 💡 Interested in Web Development, AI, and Cloud Computing
 
 ## Projects
+- [godev.tech](https://godev.tech)
 - Maybe later once I graduated
 - ...
 
